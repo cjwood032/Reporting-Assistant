@@ -20,6 +20,6 @@ namespace Reporting_Assistant.Models
         public string UserName {get; set; }
         [Required]
         public string UserRole { get; set; }
-        
+        \
     }
 }
